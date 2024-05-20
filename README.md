@@ -1,7 +1,5 @@
-13.12.23
-A oto mój projekt z wprowadzenia do programowania 
+#Game of live
 
-Plany co do niego:
-Zaimplementować OpenGl
-
+My litle project for first semester .
+Game of live writen in c symulated in terminal.
 
